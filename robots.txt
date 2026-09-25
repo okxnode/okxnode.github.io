@@ -1,6 +1,0 @@
-User-agent: *
-Allow: /
-Disallow: /compare?*
-Disallow: /*?dest=
-
-Sitemap: https://esim.ltd/sitemap.xml
